@@ -2,7 +2,6 @@ package com.codinginflow.imagesearchapp.api
 
 import com.codinginflow.imagesearchapp.BuildConfig
 import retrofit2.http.GET
-import retrofit2.http.Header
 import retrofit2.http.Headers
 import retrofit2.http.Query
 
