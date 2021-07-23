@@ -21,7 +21,6 @@ class DetailsFragment: Fragment(R.layout.fragment_details) {
 
     private val args by navArgs<DetailsFragmentArgs>()
 
-
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
